@@ -1,5 +1,5 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Aline Nutricionista";
+titulo.textContent = "FitLife - Centro de Emagrecimento";
 
 var pacientes = document.querySelectorAll(".paciente");
 
